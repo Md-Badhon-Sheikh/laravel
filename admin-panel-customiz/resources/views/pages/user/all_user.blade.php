@@ -137,7 +137,7 @@
           <th>Name</th>
           <th>Email</th>
           <th>Phone</th>
-          <th>Action</th>
+          <!-- <th>Action</th> -->
         </tr>
       </thead>
       <tbody>
@@ -146,7 +146,7 @@
           <td>{{$d->name}}</td>
           <td>{{$d->email}}</td>
           <td>{{$d->contact}}</td>
-          <td>{{$d->student}}</td>
+          <!-- <td>{{$d->student}}</td> -->
        
 
         </tr>
