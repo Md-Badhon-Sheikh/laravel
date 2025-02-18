@@ -173,15 +173,15 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="../forms/advanced.html" class="nav-link">
+                            <a href="/dbrelation" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Advanced Elements</p>
+                                <p>DB Query</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="../forms/editors.html" class="nav-link">
+                            <a href="/hasManyThroughExam" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Editors</p>
+                                <p>HasManyThroughExam</p>
                             </a>
                         </li>
                         <li class="nav-item">
